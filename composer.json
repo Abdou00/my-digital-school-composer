@@ -1,0 +1,17 @@
+{
+    "name": "samba/my-digital-school-plugin",
+    "type": "composer-plugin",
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Samba\\MyDigitalSchoolPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdou00",
+            "email": "abdoulaye_diarra@outlook.fr"
+        }
+    ],
+    "require": {}
+}
